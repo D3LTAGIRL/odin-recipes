@@ -7,6 +7,6 @@ Once I have completed it, this project will demonstrate that I can:
 
 ## Credit for images/recipes
 
-Scrambled eggs image & recipe from https://www.allrecipes.com/recipe/272293/fluffy-microwave-scrambled-eggs/
-Tomato Soup image & recipe from https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/
-Safety chicken placeholder image from https://www.thespruceeats.com/simple-baked-chicken-and-potatoes-recipe-2097389
+* Scrambled eggs image & recipe from https://www.allrecipes.com/recipe/272293/fluffy-microwave-scrambled-eggs/
+* Tomato Soup image & recipe from https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/
+* Safety chicken placeholder image from https://www.thespruceeats.com/simple-baked-chicken-and-potatoes-recipe-2097389
