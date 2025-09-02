@@ -2,20 +2,35 @@ body {
     background-color: #222;
     color: azure;
     font-family: 'JetBrains Mono', monospace;
+    padding-left: 10px;
 }
 
 :link {
     color: cornflowerblue;
+    text-decoration: none;
+}
+
+.homebutton p {
+    padding: 10px;
+    border-radius: 2px;
+    margin: 10px;
+    width: fit-content;
+    background-color: #292929;
+}
+
+.homebutton p:hover {
+    background-color: #333;
 }
 
 h1 {
-    padding: 10px;
+    margin-top: 0px;
 }
 
 img {
     border-radius: 3px;
     width: 300px;
     height: auto;
+    margin-left: 16px;
 }
 
 ul {
@@ -35,4 +50,8 @@ ol {
     border-radius: 2px;
     margin: 16px;
     padding: 16px 16px 16px 40px;
+}
+
+p {
+    margin: 16px;
 }
