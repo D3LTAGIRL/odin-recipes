@@ -12,10 +12,27 @@ h1 {
     padding: 10px;
 }
 
+img {
+    border-radius: 3px;
+    width: 300px;
+    height: auto;
+}
+
 ul {
     list-style-type: disc;
     background-color: #444;
     border-radius: 2px;
     margin: 16px;
-    padding: 16px 32px;
+    padding: 16px 16px 16px 32px;
+}
+
+li {
+    margin: 8px;
+}
+
+ol {
+    background-color: #444;
+    border-radius: 2px;
+    margin: 16px;
+    padding: 16px 16px 16px 40px;
 }
