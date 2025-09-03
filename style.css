@@ -2,8 +2,11 @@ body {
     background-color: #222;
     color: azure;
     font-family: 'JetBrains Mono', monospace;
-    padding-left: 10px;
     text-shadow: 0px 2px black;
+}
+
+body * {
+    padding-left: 10px;
 }
 
 :link {
@@ -15,17 +18,18 @@ body {
     color: cornflowerblue;
 }
 
-.homebutton p {
+.homebutton {
     padding: 10px;
     border-radius: 2px;
     margin: 10px;
-    margin-left: 16px;
+    margin-top: 2px;
     width: fit-content;
     background-color: #292929;
     box-shadow: 0px 1px black;
+    display: inline-block;
 }
 
-.homebutton p:hover {
+.homebutton:hover  {
     background-color: #333;
     box-shadow: 0px 2px black;
 }
@@ -39,6 +43,8 @@ img {
     width: 300px;
     height: auto;
     margin-left: 16px;
+    padding: 0;
+    box-shadow: 0px 1px black;
 }
 
 ul {
@@ -61,5 +67,6 @@ ol {
 }
 
 p {
-    margin: 16px;
+    padding: 4px 16px;
+    line-height: 20px;
 }
